@@ -1,0 +1,5 @@
+MediaPipe Tasks Vision 0.10.21
+Source: https://www.npmjs.com/package/@mediapipe/tasks-vision/v/0.10.21
+License: Apache-2.0 — https://www.apache.org/licenses/LICENSE-2.0
+Copyright Google LLC. Original copyright headers retained in bundled files.
+Model: https://storage.googleapis.com/mediapipe-models/image_segmenter/selfie_segmenter/float16/latest/selfie_segmenter.tflite
